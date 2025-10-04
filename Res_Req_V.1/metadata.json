@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SIR Request Form | SIR نموذج طلب موارد",
+  "description": "A bilingual (English + Arabic) web app that allows schools to request educational and club resources easily, without logins, and export requests to CSV. The app comes pre-loaded with a resource catalog and allows users to add new items locally.",
+  "requestFramePermissions": []
+}
